@@ -59,5 +59,3 @@ The data is segmented by **time of day**, **ride purpose**, **start location**, 
 
 5. **🚗 Category-Based Differentiation**
    - Business rides average **9.27 miles**, significantly longer than personal rides (**3.15 miles**), which can inform **pricing models** and **service tiering**.
-
----
