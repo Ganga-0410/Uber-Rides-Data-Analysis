@@ -3,6 +3,8 @@ This project presents a comprehensive analysis of Uber ride data, focusing on ri
 
 ![Screenshot 2025-06-11 103413](https://github.com/user-attachments/assets/0ce91d00-80f9-446c-9fe3-c537f11ed82d)
 
+---
+
 # Data Cleaning and Transformation
 This section of the analysis focuses on preparing the Uber rides dataset for further exploration and visualization. Key steps include:
 
@@ -15,6 +17,8 @@ This section of the analysis focuses on preparing the Uber rides dataset for fur
   'START_DATE' and 'END_DATE' were converted to datetime format.
   'CATEGORY' was converted to a categorical data type for efficient storage and analysis.
 
+---
+
 # 🔍 Key Insights
 - **Most Common Ride Purpose:** "Commute" is the top reason for Uber rides, followed by business-related purposes like Meetings and Customer Visits.
 - **Time-of-Day Trends:** Ride frequency peaks in the Afternoon (2–5 PM), with lower activity in the early morning and late night.
@@ -23,6 +27,8 @@ This section of the analysis focuses on preparing the Uber rides dataset for fur
 - **Weekday vs Weekend:**
   - **Weekdays**: Higher ride counts for business-related purposes.
   - **Weekends**: More rides for leisure and errands.
+
+---
 
 **Excel Data Analysis of Uber Rides provides a detailed breakdown of 420 rides, covering metrics such as:**
 - **Average distance per ride:** 9.08 miles  
